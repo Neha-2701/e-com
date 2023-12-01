@@ -1,0 +1,32 @@
+.nav {
+  font-family: raleway-500;
+  background-color: lightsalmon;
+  display: flex;
+}
+
+.list {
+  margin: 0;
+  width: 100%;
+  margin-left: -30px;
+}
+
+.list li {
+  display: inline-block;
+  padding: 1rem;
+}
+
+
+.list li a {
+  color: black;
+  text-decoration: none;
+}
+
+.logoImg {
+  height: 60px;
+  width: 60px;
+}
+
+.loginList {
+  text-align: right;
+}
+
